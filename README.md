@@ -1,2 +1,2 @@
-# DS_Pythn
+# DS_Python
 DataScience Python Applications
